@@ -28,4 +28,4 @@ class RtmTokenBuilder {
 }
 
 module.exports.RtmTokenBuilder = RtmTokenBuilder
-module.exports.Role = Role
+module.exports.RtmRole = Role

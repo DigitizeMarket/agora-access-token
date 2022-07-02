@@ -72,4 +72,4 @@ class RtcTokenBuilder {
 }
 
 module.exports.RtcTokenBuilder = RtcTokenBuilder;
-module.exports.Role = Role;
+module.exports.RtcRole = Role;
